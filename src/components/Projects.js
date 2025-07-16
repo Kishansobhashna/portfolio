@@ -1,5 +1,11 @@
 const projects = [
   {
+    title: "Portfolio",
+    desc: "React + Tailwind CSS",
+    github: "https://portfolio-git-main-kishansobhashnas-projects.vercel.app/",
+    live: "https://portfolio-gamma-eight-97.vercel.app",
+  },
+  {
     title: "Car Washing Management  System",
     desc: "PHP + Laravel + MySQL",
     github: "https://github.com/Kishansobhashna/Car-Washing-Management-System",
